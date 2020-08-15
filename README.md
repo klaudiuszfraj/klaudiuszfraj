@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [food-recipe](https://github.com/klaudiuszfraj/food-recipe)
+- 🔭 I’m currently working on [food-recipe](https://github.com/klaudiuszfraj/food-recipe), [coronavirus-tracker](https://github.com/klaudiuszfraj/coronavirus-tracker)
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on COVID-19 app
 - 🤔 I’m looking for help with :exploding_head: Firebase
